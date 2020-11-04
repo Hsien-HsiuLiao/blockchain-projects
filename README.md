@@ -14,7 +14,7 @@ https://github.com/Hsien-HsiuLiao/eth-todo-list
 
 ## DeFi
 
-https://github.com/Hsien-HsiuLiao/DEX
+https://github.com/Hsien-HsiuLiao/DEX-erc20
 
 https://github.com/Hsien-HsiuLiao/fork-uniswap
 
