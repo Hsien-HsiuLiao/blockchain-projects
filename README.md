@@ -1,4 +1,4 @@
-# blockchain-projects
+# Blockchain projects
 
 https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app
 
