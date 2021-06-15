@@ -47,6 +47,8 @@ If you use 'http://YourContract.new()', the address won't get saved in the build
 
 https://www.trufflesuite.com/docs/truffle/getting-started/interacting-with-your-contracts
 
+https://web3js.readthedocs.io/en/v1.2.7/web3-eth-contract.html#new-contract
+
 
 
 
