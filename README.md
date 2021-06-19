@@ -49,7 +49,7 @@ https://www.trufflesuite.com/docs/truffle/getting-started/interacting-with-your-
 
 https://web3js.readthedocs.io/en/v1.2.7/web3-eth-contract.html#new-contract
 
-
+https://www.mycryptopedia.com/ethereum-abi-explained/ - ABI encoding is usually automated by tools that form part of the compiler or other software, such as wallets capable of interacting with smart contracts. The so-called ABI encoder requires at least a description of the contract’s interface including function names and parameter types. A common way to provide such a description is in a standardized JSON file.
 
 
 
