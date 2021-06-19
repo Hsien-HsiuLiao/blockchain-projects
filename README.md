@@ -51,6 +51,8 @@ https://web3js.readthedocs.io/en/v1.2.7/web3-eth-contract.html#new-contract
 
 https://www.mycryptopedia.com/ethereum-abi-explained/ - ABI encoding is usually automated by tools that form part of the compiler or other software, such as wallets capable of interacting with smart contracts. The so-called ABI encoder requires at least a description of the contract’s interface including function names and parameter types. A common way to provide such a description is in a standardized JSON file.
 
+EVM - https://kauri.io/#collections/A%20Deep%20Dive%20Into%20The%20Ethereum%20Virtual%20Machine%20%28EVM%29%20Series/a-deep-dive-into-the-ethereum-virtual-machine-%28ev/#evm-execution-state-overview
+
 
 
 
