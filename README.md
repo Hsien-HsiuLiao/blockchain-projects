@@ -53,6 +53,9 @@ https://www.mycryptopedia.com/ethereum-abi-explained/ - ABI encoding is usually 
 
 EVM - https://kauri.io/#collections/A%20Deep%20Dive%20Into%20The%20Ethereum%20Virtual%20Machine%20%28EVM%29%20Series/a-deep-dive-into-the-ethereum-virtual-machine-%28ev/#evm-execution-state-overview
 
+https://kyber.network/ - Kyber is a blockchain-based liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.
+
+https://0x.org/ - 0x API is a professional grade liquidity aggregator enabling the future of DeFi applications
 
 
 
