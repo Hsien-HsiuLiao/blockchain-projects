@@ -29,6 +29,10 @@ https://github.com/Hsien-HsiuLiao/brownie - A Python-based development and testi
 
 https://github.com/Hsien-HsiuLiao/create-eth-app
 
+https://github.com/Hsien-HsiuLiao/evm-opcodes
+
+https://docs.soliditylang.org/en/v0.8.5/assembly.html
+
 ## Notes
 
 https://stackoverflow.com/questions/52690481/how-to-create-new-ethereum-solidity-contract-for-each-test-in-javascript-truffle
