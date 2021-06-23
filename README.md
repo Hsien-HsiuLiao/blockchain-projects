@@ -61,5 +61,16 @@ https://kyber.network/ - Kyber is a blockchain-based liquidity protocol that agg
 
 https://0x.org/ - 0x API is a professional grade liquidity aggregator enabling the future of DeFi applications
 
+### Troubleshooting
+
+If having errors running npm, 
+Restore ownership of the user's npm related folders, to the current user, like this:_
+
+
+  `sudo chown -R $USER:$GROUP ~/.npm`
+
+  `sudo chown -R $USER:$GROUP ~/.config`
+
+
 
 
