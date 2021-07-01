@@ -8,8 +8,6 @@ https://github.com/Hsien-HsiuLiao/Decentralized-Autonomous-Organization
 
 https://github.com/Hsien-HsiuLiao/Buy-Music-with-Ethereum-dApp
 
-https://github.com/Hsien-HsiuLiao/eth-todo-list
-
 ## DeFi
 
 https://github.com/Hsien-HsiuLiao/DEX-erc20
