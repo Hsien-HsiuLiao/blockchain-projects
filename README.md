@@ -14,7 +14,7 @@ https://github.com/Hsien-HsiuLiao/DEX-erc20 - deployed to netlify, kovan testnet
 
 https://github.com/Hsien-HsiuLiao/fork-uniswap
 
-https://github.com/Hsien-HsiuLiao/defi-api
+https://github.com/Hsien-HsiuLiao/defi-api - deployed to heroku
 
 ## NFT
 
