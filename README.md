@@ -23,7 +23,21 @@ https://github.com/Hsien-HsiuLiao/nft-marketplace
 
 
 ## Resources
+
+### Security
 https://github.com/Hsien-HsiuLiao/smart-contract-best-practices
+
+https://docs.soliditylang.org/en/develop/security-considerations.html?highlight=check%20effects#use-the-checks-effects-interactions-pattern - when writing functions, use Checks-Effects-Interactions Pattern
+
+### EVM
+
+https://github.com/Hsien-HsiuLiao/evm-opcodes
+
+https://docs.soliditylang.org/en/v0.8.5/assembly.html
+
+https://kauri.io/#collections/A%20Deep%20Dive%20Into%20The%20Ethereum%20Virtual%20Machine%20%28EVM%29%20Series/a-deep-dive-into-the-ethereum-virtual-machine-%28ev/#evm-execution-state-overview
+
+### other
 
 https://github.com/Hsien-HsiuLiao/defi-score
 
@@ -31,9 +45,7 @@ https://github.com/Hsien-HsiuLiao/brownie - A Python-based development and testi
 
 https://github.com/Hsien-HsiuLiao/create-eth-app
 
-https://github.com/Hsien-HsiuLiao/evm-opcodes
 
-https://docs.soliditylang.org/en/v0.8.5/assembly.html
 
 ## Notes
 
@@ -57,7 +69,6 @@ https://web3js.readthedocs.io/en/v1.2.7/web3-eth-contract.html#new-contract
 
 https://www.mycryptopedia.com/ethereum-abi-explained/ - ABI encoding is usually automated by tools that form part of the compiler or other software, such as wallets capable of interacting with smart contracts. The so-called ABI encoder requires at least a description of the contract’s interface including function names and parameter types. A common way to provide such a description is in a standardized JSON file.
 
-EVM - https://kauri.io/#collections/A%20Deep%20Dive%20Into%20The%20Ethereum%20Virtual%20Machine%20%28EVM%29%20Series/a-deep-dive-into-the-ethereum-virtual-machine-%28ev/#evm-execution-state-overview
 
 https://kyber.network/ - Kyber is a blockchain-based liquidity protocol that aggregates liquidity from a wide range of reserves, powering instant and secure token exchange in any decentralized application.
 
