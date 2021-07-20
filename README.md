@@ -6,6 +6,8 @@ https://github.com/Hsien-HsiuLiao/multisig-wallet - deployed to netlify, kovan t
 
 https://github.com/Hsien-HsiuLiao/Decentralized-Autonomous-Organization
 
+https://github.com/Hsien-HsiuLiao/ETB-voting-app
+
 https://github.com/Hsien-HsiuLiao/Buy-Music-with-Ethereum-dApp
 
 ## DeFi
