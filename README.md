@@ -31,6 +31,8 @@ https://github.com/Hsien-HsiuLiao/smart-contract-best-practices
 
 https://docs.soliditylang.org/en/develop/security-considerations.html?highlight=check%20effects#use-the-checks-effects-interactions-pattern - when writing functions, use Checks-Effects-Interactions Pattern
 
+https://github.com/OpenZeppelin/ethernaut
+
 ### EVM
 
 https://github.com/Hsien-HsiuLiao/evm-opcodes
