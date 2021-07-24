@@ -33,6 +33,8 @@ https://docs.soliditylang.org/en/develop/security-considerations.html?highlight=
 
 https://github.com/OpenZeppelin/ethernaut
 
+https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/
+
 ### EVM
 
 https://github.com/Hsien-HsiuLiao/evm-opcodes
