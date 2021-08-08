@@ -12,11 +12,10 @@ https://github.com/Hsien-HsiuLiao/Buy-Music-with-Ethereum-dApp
 
 ## DeFi
 
-https://github.com/Hsien-HsiuLiao/DEX-erc20 - deployed to netlify, kovan testnet
-
-https://github.com/Hsien-HsiuLiao/fork-uniswap
-
-https://github.com/Hsien-HsiuLiao/defi-api - deployed to heroku
+* https://github.com/Hsien-HsiuLiao/DEX-erc20 - deployed to netlify, kovan testnet
+* https://github.com/Hsien-HsiuLiao/fork-uniswap
+* https://github.com/Hsien-HsiuLiao/defi-api - deployed to heroku
+* https://github.com/Hsien-HsiuLiao/liquidity-mining
 
 ## NFT
 
