@@ -1,14 +1,10 @@
 # Blockchain projects
 
-https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app
-
-https://github.com/Hsien-HsiuLiao/multisig-wallet - deployed to netlify, kovan testnet
-
-https://github.com/Hsien-HsiuLiao/Decentralized-Autonomous-Organization
-
-https://github.com/Hsien-HsiuLiao/ETB-voting-app
-
-https://github.com/Hsien-HsiuLiao/Buy-Music-with-Ethereum-dApp
+* https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app
+* https://github.com/Hsien-HsiuLiao/multisig-wallet - deployed to netlify, kovan testnet
+* https://github.com/Hsien-HsiuLiao/Decentralized-Autonomous-Organization
+* https://github.com/Hsien-HsiuLiao/ETB-voting-app
+* https://github.com/Hsien-HsiuLiao/Buy-Music-with-Ethereum-dApp
 
 ## DeFi
 
