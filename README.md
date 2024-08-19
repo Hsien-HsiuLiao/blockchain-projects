@@ -87,4 +87,11 @@ Restore ownership of the user's npm related folders, to the current user, like t
 
 
 
+todo
+https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app
+- migrate to HH ethers
+- migrate to Typescript
+- use risc0 to verify eth account purchased song and hhas access to play
 
+
+tt
