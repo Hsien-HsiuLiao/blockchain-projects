@@ -100,3 +100,4 @@ https://github.com/Hsien-HsiuLiao/multisig-wallet
 Buy-Music-with-Ethereum-dApp
 - integrate DAO contract so band members can vote on profit distribution
 - add contract to get nft after fan buys music
+- implement rust backend to get song info, etc from db
