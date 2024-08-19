@@ -94,5 +94,8 @@ https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app
 - use risc0 to verify eth account purchased song and hhas access to play
 - add ticker for stablecoins to bottom
 
+https://github.com/Hsien-HsiuLiao/multisig-wallet
+- migrate to HH, typescript
+
 
 tt
