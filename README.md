@@ -92,6 +92,7 @@ https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app
 - migrate to HH ethers
 - migrate to Typescript
 - use risc0 to verify eth account purchased song and hhas access to play
+- add ticker for stablecoins to bottom
 
 
 tt
