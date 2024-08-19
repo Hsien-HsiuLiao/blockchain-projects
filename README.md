@@ -97,5 +97,5 @@ https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app
 https://github.com/Hsien-HsiuLiao/multisig-wallet
 - migrate to HH, typescript
 
-
-tt
+Buy-Music-with-Ethereum-dApp
+- integrate DAO contract so band members can vote on profit distribution
