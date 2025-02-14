@@ -88,8 +88,3 @@ https://github.com/Hsien-HsiuLiao/blockchain-ecommerce-app
 
 https://github.com/Hsien-HsiuLiao/multisig-wallet
 - migrate to HH, typescript
-
-Buy-Music-with-Ethereum-dApp
-- integrate DAO contract so band members can vote on profit distribution
-- add contract to get nft after fan buys music
-- implement rust backend to get song info, etc from db
