@@ -1,8 +1,6 @@
 # Blockchain projects
 
-* https://hh-eth-portfolio.vercel.app
-* 
-* 
+* Portfolio - https://hh-eth-portfolio.vercel.app
 
 * https://github.com/Hsien-HsiuLiao/Decentralized-Autonomous-Organization
 * https://github.com/Hsien-HsiuLiao/ETB-voting-app
