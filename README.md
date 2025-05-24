@@ -1,8 +1,8 @@
 # Blockchain projects
 
-* DePIN - https://github.com/Hsien-HsiuLiao/turbin3-Q2/tree/main/capstone/panorama-parking-marketplace
+* Solana DePIN project - https://github.com/Hsien-HsiuLiao/turbin3-Q2/tree/main/capstone/panorama-parking-marketplace
 
-* Portfolio - https://hh-eth-portfolio.vercel.app
+* Ethereum projects - https://hh-eth-portfolio.vercel.app
 
 
 
