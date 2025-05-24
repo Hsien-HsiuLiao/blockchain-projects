@@ -1,8 +1,9 @@
 # Blockchain projects
 
+* DePIN - https://github.com/Hsien-HsiuLiao/turbin3-Q2/tree/main/capstone/panorama-parking-marketplace
+
 * Portfolio - https://hh-eth-portfolio.vercel.app
 
-* https://github.com/Hsien-HsiuLiao/Decentralized-Autonomous-Organization
 
 
 
